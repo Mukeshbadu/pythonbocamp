@@ -1,0 +1,11 @@
+python is a computer programming language often used to build websites and software,
+ automate tasks, and analyze data. Python is a general-purpose language, not specialized for
+  any specific problems, and used to create various programmes.
+
+  
+A python interpreter is a computer program that converts each high-level program statement into machine code. An interpreter translates the command that you write out into code that the computer can understand. However, to better understand this definition, we must explain what high-level and low-level languages 
+
+python is dynamically typed, which means that variable types are determined and checked at runtime rather than during compilation. In dynamically typed languages like Python, you don't need to explicitly declare the variable type before using it.
+
+
+When we declare a variable inside a class, but outside the method, it is called a static or class variable. It can be called directly from a class but not through the instances of a class.
